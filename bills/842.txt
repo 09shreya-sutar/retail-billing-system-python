@@ -1,0 +1,22 @@
+		*** Welcome Customer***
+
+ Bill Number      : 842
+ Customer Name    : ABCD
+ Customer Phon No : 11111
+===========================================================
+ Product			Quantity			Price
+===========================================================	
+Bath Soap			1			20 Rs	
+Face Cream			2			200 Rs	
+Face Wash			1			80 Rs	
+Oile			1			100 Rs	
+Maaza			1			20 Rs	
+Pepsi			1			100 Rs
+===========================================================
+ Cosmetic Tax						36.0 Rs
+ Grocery Tax						10.0 Rs
+ Cold drink Tax						18.0 Rs
+ 
+ Total Bill 						584.0
+
+		******  Thank You For Visit  ******

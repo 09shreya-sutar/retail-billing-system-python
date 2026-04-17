@@ -1,0 +1,20 @@
+		*** Welcome Customer***
+
+ Bill Number      : 562
+ Customer Name    : shreyaa
+ Customer Phon No : 787878789
+===========================================================
+ Product			Quantity			Price
+===========================================================	
+Bath Soap			1			20 Rs	
+Face Wash			1			80 Rs	
+Rice			1			20 Rs	
+Maaza			1			20 Rs
+===========================================================
+ Cosmetic Tax						12.0 Rs
+ Grocery Tax						2.0 Rs
+ Cold drink Tax						3.0 Rs
+ 
+ Total Bill 						157.0
+
+		******  Thank You For Visit  ******

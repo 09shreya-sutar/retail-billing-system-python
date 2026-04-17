@@ -1,0 +1,19 @@
+		*** Welcome Customer***
+
+ Bill Number      : 724
+ Customer Name    : a
+ Customer Phon No : a
+===========================================================
+ Product			Quantity			Price
+===========================================================	
+Bath Soap			01			20 Rs	
+Oile			1			100 Rs	
+Maaza			01			20 Rs
+===========================================================
+ Cosmetic Tax						2.4 Rs
+ Grocery Tax						10.0 Rs
+ Cold drink Tax						3.0 Rs
+ 
+ Total Bill 						155.4
+
+		******  Thank You For Visit  ******
