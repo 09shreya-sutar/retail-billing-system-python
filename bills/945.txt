@@ -1,0 +1,34 @@
+		*** Welcome Customer***
+
+ Bill Number      : 945
+ Customer Name    : shreya
+ Customer Phon No : 123
+===========================================================
+ Product			Quantity			Price
+===========================================================	
+Bath Soap			2			40 Rs	
+Face Cream			2			200 Rs	
+Face Wash			1			80 Rs	
+Hairsprye			1			120 Rs	
+Hairgel			1			50 Rs	
+Body Lotion			1			50 Rs	
+Rice			2			40 Rs	
+Oile			1			100 Rs	
+Daal			2			240 Rs	
+Whetvalu			1			80 Rs	
+Sugar			2			100 Rs	
+ Teat		1			50 Rs	
+Maaza			1			20 Rs	
+Pepsi			1			100 Rs	
+Sprite			1			120 Rs	
+Dew			11			880 Rs	
+Frooti			1			50 Rs	
+ Cocacola			1			50Rs
+===========================================================
+ Cosmetic Tax						64.8 Rs
+ Grocery Tax						61.0 Rs
+ Cold drink Tax						183.0 Rs
+ 
+ Total Bill 						2678.8
+
+		******  Thank You For Visit  ******
